@@ -6293,3 +6293,5 @@ payload:
   - DOMAIN-SUFFIX,thingiverse.com
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,qichiyu.com
+  
+  - DOMAIN-SUFFIX,rousi.zip
