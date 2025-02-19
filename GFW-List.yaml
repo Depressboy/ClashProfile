@@ -6286,7 +6286,6 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,esphome.io
-  - DOMAIN-KEYWORD,docker
   - DOMAIN-KEYWORD,volumio
 
   - DOMAIN-SUFFIX,cults3d.com
